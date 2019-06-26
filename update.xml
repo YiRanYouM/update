@@ -1,0 +1,12 @@
+<infos>
+    <info>
+        <packageName >com.glorystartech.update</packageName>
+        <apkUrl>http://139.196.216.138/app_storage/update.apk</apkUrl>
+		<apkVersion>1.2</apkVersion>
+    </info>
+	<info>
+        <packageName >com.glorystartech.test</packageName>
+        <apkUrl>http://139.196.216.138/app_storage/app-release.apk</apkUrl>
+		<apkVersion>8.0</apkVersion>
+    </info>
+</infos>
