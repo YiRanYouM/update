@@ -1,12 +1,14 @@
 <infos>
     <info>
+	<appName>Update</appName>
         <packageName >com.glorystartech.update</packageName>
         <apkUrl>https://raw.githubusercontent.com/YiRanYouM/update/master/update.apk</apkUrl>
 		<apkVersion>1.2</apkVersion>
     </info>
 	<info>
+	<appName>Test</appName>
         <packageName >com.glorystartech.test</packageName>
         <apkUrl>https://raw.githubusercontent.com/YiRanYouM/update/master/aida64.apk</apkUrl>
-		<apkVersion>8.0</apkVersion>
+	<apkVersion>8.0</apkVersion>
     </info>
 </infos>
